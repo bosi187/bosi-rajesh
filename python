@@ -1,1 +1,8 @@
-
+Q. Input a number from the keyboard. Calculate the square of the number.
+ Ans. 
+INPUT: 
+x=input ("number ") 
+square=int (x) **2
+ print ("square of a number", square) 
+OUTPUT: 
+number 143 square of a number 20449 
